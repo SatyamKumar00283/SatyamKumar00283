@@ -1,35 +1,89 @@
-![logo](https://github.com/SatyamKumar00283/SatyamKumar00283/blob/main/gif.gif)
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">CMA Inter | B.Sc. Mathematics | Data Analyst 📊 Analyzing financial data through a mathematical lens. 🐍 Python, SQL, Power BI, and Financial Modeling.</h3>
+![Banner](https://github.com/SatyamKumar00283/SatyamKumar00283/blob/main/gif.gif)
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumar00283&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumar00283" /> </p>
-
-- 🔭 I’m currently pursuing **B.sc Mathematics**
-
-- I am curreently Learning for **CMA Intermediate**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/SatyamKumar00283)
-
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/satyam2006)
-
-- ⚡ Fun fact **A CMA, a Mathematician, and a Coder walk into a bar. I'm all three, so I just sat there and calculated the probability of the bartender overcharging me.**
-
-- Send bug reports or job offers to: **kumarsatyam00283@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ satyam2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ satyam2006" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/elite_mba_finance/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elite_mba_finance/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=satyamkumar00283&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Satyam Kumar 👋</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumar00283&show_icons=true&locale=en&layout=compact" alt="satyamkumar00283" /></p>
+<h3 align="center">
+CMA Intermediate Aspirant | B.Sc. Mathematics <br/>
+Aspiring Data Analyst & Financial Analyst
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumar00283&show_icons=true&locale=en" alt="satyamkumar00283" /></p>
+<p align="center">
+I analyze financial and business data using <b>Mathematics, Accounting, and Technology</b> to derive meaningful insights and support decision-making.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar00283&" alt="satyamkumar00283" /></p>
+---
 
+## 👨‍🎓 About Me
+
+- 🎓 Pursuing **B.Sc. Mathematics**
+- 📚 Preparing for **CMA Intermediate**
+- 📊 Interested in **Data Analytics, Financial Analysis & Business Intelligence**
+- 🧮 Strong foundation in **Statistics, Costing & Financial Reporting**
+- 💻 Tools-driven approach to solving real-world financial problems
+
+📫 **Email:** kumarsatyam00283@gmail.com  
+
+---
+
+## 🧠 Skills & Expertise
+
+**Finance & Accounting**
+- Cost Accounting  
+- Financial Statement Analysis  
+- Budgeting & Variance Analysis  
+- CMA Intermediate Concepts  
+
+**Data & Analytics**
+- Data Cleaning & Analysis  
+- Exploratory Data Analysis (EDA)  
+- Financial Dashboards  
+- Reporting & Visualization  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
+</p>
+
+---
+
+## 📂 Projects (Coming Soon)
+
+🚧 Currently working on:
+- Financial Data Analysis using Python  
+- SQL-based Business Reporting  
+- Power BI Dashboards for Financial Performance  
+
+> Projects will demonstrate **real-world finance + data analytics use cases**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/satyam2006" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/elite_mba_finance/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> **A CMA, a Mathematician, and a Coder walk into a bar.  
+I’m all three — so I calculated the probability of the bartender overcharging me.**
+
+---

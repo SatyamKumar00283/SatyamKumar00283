@@ -1,3 +1,4 @@
+![logo](https://github.com/SatyamKumar00283/SatyamKumar00283/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">CMA Inter | B.Sc. Mathematics | Data Analyst 📊 Analyzing financial data through a mathematical lens. 🐍 Python, SQL, Power BI, and Financial Modeling.</h3>
 

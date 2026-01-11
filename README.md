@@ -29,7 +29,10 @@ I analyze financial and business data using <b>Mathematics, Accounting, and Tech
 
 ---
 
+
 ## 🧠 Skills & Expertise
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif">
 
 **Finance & Accounting**
 - Cost Accounting  
